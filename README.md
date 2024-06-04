@@ -3,7 +3,7 @@
 Create a new folder for your project and run the following command:
 
 ```
-git clone git@github.com:dachendev/odin-webpack-starter.git [folder-name]
+git clone https://github.com/dachendev/odin-webpack-starter [folder-name]
 ```
 
 ## How do I publish to GitHub Pages?
