@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "odin-webpack-starter",
+  "name": "webpack-starter",
   "version": "1.0.0",
   "description": "",
   "private": true,
