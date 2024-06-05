@@ -1,10 +1,10 @@
-import './main.css';
+import "./main.css";
 
 function domLoaded() {
-    var p = document.createElement('p');
-    p.textContent = 'Webpack is working!';
+  var p = document.createElement("p");
+  p.textContent = "Webpack is working!";
 
-    document.body.appendChild(p);
+  document.body.appendChild(p);
 }
 
-window.addEventListener('DOMContentLoaded', domLoaded);
+window.addEventListener("DOMContentLoaded", domLoaded);
